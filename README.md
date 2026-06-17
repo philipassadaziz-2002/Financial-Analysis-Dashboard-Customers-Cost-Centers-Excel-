@@ -143,4 +143,4 @@ financial risk?
 
 - **Database:** CSV Files (Customers, Transactions, Cost Centers)
 - **Analysis Tools:** Excel, Power Query, Power Pivot
-- **Data Cleaning:** [Data Cleaning Summary](/PROJECT%201/data_cleaning.md)
+- **Data Cleaning:** [Data Cleaning Summary](/data_cleaning.md)
