@@ -48,8 +48,8 @@ a credit risk?
 
 **📊 Visualization:**
 
-![Credit Risk by Segment](/PROJECT%201/images/Q1-outstanding%20balance.png)
-![Credit Risk by Segment](/PROJECT%201/images/Q1-Credit%20Limit.png)
+![Credit Risk by Segment](/images/Q1-outstanding%20balance.png)
+![Credit Risk by Segment](/images/Q1-Credit%20Limit.png)
 
 **📊 Key Findings:**
 - Retail holds 40% of total outstanding (866M)
@@ -77,7 +77,7 @@ Budget and Actual spending?
 
 **📊 Visualization:**
 
-![Cost Amount And Budget Amount](/PROJECT%201/images/Q2-cost-budget%20amount.png)
+![Cost Amount And Budget Amount](/images/Q2-cost-budget%20amount.png)
 
 **📊 Key Findings:**
 - Cost Amount stable ~44M across all years
@@ -105,7 +105,7 @@ financial risk?
 
 **📊 Visualization:**
 
-![Returns Percentage](/PROJECT%201/images/Q3-Returns%20PCT.png)
+![Returns Percentage](/images/Q3-Returns%20PCT.png)
 
 **📊 Key Findings:**
 - Returns represent 10% of total revenue (503M out of 5B)
